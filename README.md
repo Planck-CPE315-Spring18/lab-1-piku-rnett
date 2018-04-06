@@ -2,6 +2,10 @@
 
 ## Things to include in your README
 
+Ryan Nett
+In progress
+Use `make` to compile, and `make run` to run.
+
 * Your name. Indicate if you go by a nickname.
 * Status of your lab
   * Complete, partially complete, incomplete
